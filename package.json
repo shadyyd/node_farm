@@ -9,6 +9,7 @@
   "author": "Shady Radwan",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "slugify": "~1.3.4"
   },
   "devDependencies": {
